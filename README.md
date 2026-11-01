@@ -10,9 +10,9 @@ Utilizar herramientas colaborativas básicas de software usadas en la industria 
 
 | Integrante | Rol | Notebook asignado |
 |---|---|---|
-| Sebastian Gómez | Coordinador (repositorio, README, revisión de Pull Requests) | `01_entrada_conversion_numericas.ipynb` |
-| [Nombre 2] | Documentación (notebook índice) | `02_colecciones_iteracion.ipynb` |
-| [Nombre 3] | Informe en PDF | `03_agregacion_funcionales_utilidades.ipynb` |
+| Juan Sebastian Gomez Jerez | Coordinador (repositorio, README, revisión de Pull Requests) | `01_entrada_conversion_numericas.ipynb` |
+| Julian Esteban Bravo Daza | Documentación (notebook índice) | `02_colecciones_iteracion.ipynb` |
+| Ana Maria Villamil Camelo | Informe en PDF | `03_agregacion_funcionales_utilidades.ipynb` |
 
 ## Estructura del repositorio
 
